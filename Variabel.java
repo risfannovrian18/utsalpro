@@ -5,8 +5,8 @@ public class Variabel {
 		String name = "Risfan Novrian"
 		int tahun = 2000;
 		
-		System.out.println ("%greeting" + greeting\n);
-		System.out.println ("Nama Saya : %name" + name\n);
-		System.out.println ("Saya Lahir di Tahun : %tahun" + tahun\n);
+		System.out.println (greeting);
+		System.out.println ("Nama Saya : " + name);
+		System.out.println ("Saya Lahir di Tahun : " + tahun);
 	}
 }
